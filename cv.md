@@ -1,11 +1,14 @@
 **Name:** Vadim Ulitsky
-**Date of Birth:** Aug 22 1996
-**Number:** +375 33 668 03 82
-**E-mail:** ulitsky.vadimcv@gmail.com
-**Skype:** green_day196
-***
   
-
+**Date of Birth:** Aug 22 1996
+  
+**Number:** +375 33 668 03 82
+  
+**E-mail:** ulitsky.vadimcv@gmail.com
+  
+**Skype:** green_day196
+  
+  
 ***Summary:***
 I make all efforts to take a lot of experience in developing technical skills (*with help of EPAM trainings*) and want to become a perspective **JavaScript Developer**.
   
