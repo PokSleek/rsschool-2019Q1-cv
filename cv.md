@@ -7,7 +7,7 @@
 **E-mail:** ulitsky.vadimcv@gmail.com
   
 **Skype:** green_day196
-  
+      
   
 ***Summary:***
 I make all efforts to take a lot of experience in developing technical skills (*with help of EPAM trainings*) and want to become a perspective **JavaScript Developer**.
@@ -22,10 +22,8 @@ JavaScript, Node.JS(Express), Handlebars, Java, SQL queries, HTML5, CSS, C++(bas
 ***Education:*** 
 +	BSU, Web-technologies and computer simulation department on specialization “Web-programming and Internet Technologies” 
 During the education I have practices with:
--	Coursework – website creation on framework Ruby on rails.
-Informational web site with articles, with ability to configure and manage user roles and permissions.
--	Coursework + thesis – website creation for BSU on Joomla: “Centre of academic competency” (science.bsu.by). 
--	Automation testing - development of automated tests using Selenium WebDriver
+  +	Coursework – website creation on framework Ruby on rails: informational web site with articles, with ability to configure and manage user roles and permissions.
+  +	Coursework + thesis – website creation for BSU on Joomla: “Centre of academic competency” (science.bsu.by). 
   
 As well theoretical knowledge in:
 +	Client-server architecture
