@@ -1,0 +1,31 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.container__cv {
+  width: 1020px;
+  height: 100vh;
+  background-color: rgb(223, 215, 215);  
+}
+
+header {
+  margin-top: 50px;
+}
+
+.general-info {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+ .general-info__contacts {
+   line-height: 20px;
+  font-weight: 900;
+ }
+
+ p.contacts__item {
+  line-height: 40;
+  font-weight: 900;
+ }
+
+
