@@ -2,6 +2,7 @@ body {
   display: flex;
   justify-content: center;
   font-family: 'Cabin', sans-serif;
+  background: url(./assets/images/background.png);
 }
 
 h2 {
@@ -11,9 +12,8 @@ h2 {
 }
 .container__cv {
   width: 900px;
-  
-  background-color: rgba(223, 215, 215, 0.2);
-  padding: 0 60px;  
+  background-color: rgba(223, 215, 215, 0.4);
+  padding: 0 60px; 
 }
 
 header {
